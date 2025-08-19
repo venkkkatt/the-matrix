@@ -1,0 +1,9 @@
+.sidebar-div:hover {
+  background-color: #191a1a;
+  opacity: 4;
+}
+
+.sidebar-divmain {
+  font-family: "poppins";
+  font-weight: 600;
+}
